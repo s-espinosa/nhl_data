@@ -1,0 +1,3 @@
+class GameTeamsStatistics < ApplicationRecord
+
+end
